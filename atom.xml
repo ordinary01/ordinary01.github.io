@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.jiangdashuai.com/"/>
-  <updated>2020-07-03T06:51:21.003Z</updated>
+  <updated>2020-07-03T06:57:55.481Z</updated>
   <id>https://blog.jiangdashuai.com/</id>
   
   <author>
@@ -21,17 +21,11 @@
     <link href="https://blog.jiangdashuai.com/2020/07/03/vscode%E5%AE%89%E8%A3%85golang%E6%8F%92%E4%BB%B6%E5%A4%B1%E8%B4%A5%E9%97%AE%E9%A2%98/"/>
     <id>https://blog.jiangdashuai.com/2020/07/03/vscode安装golang插件失败问题/</id>
     <published>2020-07-03T06:45:43.000Z</published>
-    <updated>2020-07-03T06:51:21.003Z</updated>
+    <updated>2020-07-03T06:57:55.481Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;p&gt;使用vscode开发go，需要下载相应的插件，但是有一些插件是在国外的软件，通常有两种安装方式&lt;br&gt;一、是手动下载tools然后手动安装（未使用）&lt;br&gt;二、更改为国内代理网址下载，参考 ：&lt;a
-        
-      
+      &lt;p&gt;使用vscode开发go，需要下载相应的插件，但是有一些插件是在国外的软件，通常有两种安装方式&lt;br&gt;
     
     </summary>
     
